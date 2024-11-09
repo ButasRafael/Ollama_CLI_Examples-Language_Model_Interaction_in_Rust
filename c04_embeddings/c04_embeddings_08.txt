@@ -1,0 +1,5 @@
+heck for the input types?"
+
+This request clearly defines the function's purpose, inputs, outputs, and specific behaviors, making it easier to generate a precise and useful function.
+
+The speed of light is constant in all frames of reference due to the principles of special relativity. This constancy arises from Maxwell's equations, which describe electromagnetism and imply that light travels at a fixed speed in a vacuum, regardless of the motion of the source or the observer. This led Einste
